@@ -23,3 +23,12 @@
 // console.log(output, output2, output3);
 
 // build in modules
+// import http from "http";
+
+// http
+//   .createServer((req, res) => {
+//     res.end("<h2>Bangladesh Nodes</h2>");
+//   })
+//   .listen(8080);
+
+// create own modules
